@@ -1,1 +1,1 @@
-# Implementation of the Minimax algorithm
+# Minimax algorithm
